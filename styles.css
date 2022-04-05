@@ -1,0 +1,94 @@
+body{
+    font-family: 'Arial', sans-serif;
+}
+nav{
+    margin-left: 88%;
+    width: 100%;
+    font-size: 13px;
+}
+
+nav li img {
+    width: 25px;
+    margin-top: 2px;
+}
+
+ .profile {
+    width: 32px;
+    
+}
+
+nav li{
+    display: inline-block;
+    margin: 0px 5px;
+}
+
+nav li a{
+    text-decoration: none;
+    color: rgb(80, 78, 78);
+}
+
+.logo {
+    margin-top: 200px;
+}
+
+#barra {
+    width: 600px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding: 4px;
+    flex-wrap: wrap;
+    display: block;
+}
+
+#buscar, #suerte {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-size: 14px;
+    margin-top: 30px;
+    cursor: pointer;
+    min-width: 54px;
+    height: 36px;
+    margin-right: 10px;
+}
+
+.texto {
+    color: #3c4043;
+    line-height: 28px;
+    font-size: small;
+}
+
+.texto a {
+    text-decoration: none;
+}
+
+footer li {
+    display: inline-block;
+    height: 30px;
+}
+
+footer li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #70757A;
+    margin-left: 30px;
+
+}
+
+.pais {
+    font-size: 14px;
+    color: #70757A;
+    margin-left: 30px;
+}
+
+footer {
+    background-color: #e2e9f0;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+}
